@@ -1,1 +1,1 @@
-# ConsoleApp11
+Simple console app with json cookiecutter stack !
